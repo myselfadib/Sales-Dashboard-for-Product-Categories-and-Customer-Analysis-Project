@@ -9,7 +9,7 @@ This project presents a detailed Sales Dashboard tailored to analyze sales perfo
 - Dynamic Data Manipulation: Employed separate pivot tables for each visualization, facilitating targeted analyses on different dimensions such as product categories, annual trends, and geographic sales distributions.
 
 ### Data Visualization:
--iverse Charts and Graphs: Utilized bar charts, line graphs, geographic maps, pie charts, and dramatic monthly sales visualizations to convey complex data in an accessible manner.
+- Diverse Charts and Graphs: Utilized bar charts, line graphs, geographic maps, pie charts, and dramatic monthly sales visualizations to convey complex data in an accessible manner.
 
 ### Insights Gained:
 - Product Performance: Phones and Chairs emerge as leading categories, suggesting strong consumer demand and market opportunities.
