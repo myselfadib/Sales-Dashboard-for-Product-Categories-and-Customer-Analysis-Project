@@ -1,4 +1,5 @@
 # Sales-Dashboard-for-Product-Categories-and-Customer-Analysis-Project
+![alt text](https://github.com/myselfadib/Sales-Dashboard-for-Product-Categories-and-Customer-Analysis-Project/blob/main/Sales%20dashboard.png)
 This project presents a detailed Sales Dashboard tailored to analyze sales performance across various product sub-categories and to understand customer behaviors over the years 2014 to 2017. The dashboard serves as a crucial tool for highlighting key sales trends and patterns, enabling strategic decision-making based on data-driven insights.
 
 ## Key Features and Tools Used: 
